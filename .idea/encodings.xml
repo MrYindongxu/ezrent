@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/ClientLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/ClientMain.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/Login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/NewGame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/NewRegister.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/Swing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/ForRentMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/idTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clientutil/ClientUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/splitShowMessage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMServer/ServerLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMServer/info/rentMsg.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/FileOperate.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/ServerUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/ClientChat.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/ServerChat.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
