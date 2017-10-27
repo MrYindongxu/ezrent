@@ -20,6 +20,7 @@ public class FileOperate {
     File efile1 = new File("src/version2/BIMServer/info/accountMsg.txt");
     public boolean flag = false;
     public boolean isRight = false; //判定分割@符及=号
+    static boolean isIn = false;
 
     /**
      * 实现对账号信息的写入
@@ -173,12 +174,17 @@ public class FileOperate {
                 String[] str21 = str2[0].split("=");
                 String[] str22 = str2[1].split("=");
                 String[] str23 = str2[3].split("=");
+                String[] str24 = str2[4].split("=");
                 if (research.equals(str21[1])) {
                     list.add(line + "\n");
                 } else if (research.equals(str22[1])) {
                     list.add(line + "\n");
                 } else if (research.equals(str23[1])) {
                     list.add(line + "\n");
+                }else if (priceRange(research,str24[1])){
+                    list.add(line + "\n");
+                }else {
+                    return "暂无信息";
                 }
                 line = br.readLine();
             }
@@ -190,7 +196,22 @@ public class FileOperate {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        return str.substring(0, str.length() - 1);
+        return str;
+    }
+
+    /**
+     * 价格对比
+     * @param research
+     * @param price
+     * @return
+     */
+    public static boolean priceRange(String research,String price){
+        int tar = Integer.parseInt(price);
+        int range = Integer.parseInt(research);
+        if ((range - 200) < tar && tar < (range + 200)){
+            isIn=true;
+        }
+        return isIn;
     }
 
     /**

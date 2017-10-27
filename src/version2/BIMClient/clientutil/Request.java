@@ -7,8 +7,8 @@ import java.io.Serializable;
 
 
 public class Request implements Serializable {
-    private int type;//0µÇÂ¼,1×¢²á
-    // 20ÍË³ö, 21²é¿´ËùÓĞĞÅÏ¢, 22·¢²¼ĞÅÏ¢, 23ËÑË÷ĞÅÏ¢, 24ÁÄÌì, 25¶©µ¥, 26ĞÅÓş»ı·Ö
+    private int type;//0ç™»å½•,1æ³¨å†Œ
+    // 20é€€å‡º, 21æŸ¥çœ‹æ‰€æœ‰ä¿¡æ¯, 22å‘å¸ƒä¿¡æ¯, 23æœç´¢ä¿¡æ¯, 24èŠå¤©, 25è®¢å•, 26ä¿¡èª‰ç§¯åˆ†
     private Account account;
     private String research;
     private ForRentMessage forRentMessage;

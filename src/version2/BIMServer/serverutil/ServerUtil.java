@@ -145,7 +145,7 @@ public class ServerUtil {
    public static boolean splitSpecificRow(String str2) {
         boolean flag = false;
         String[] str1 = str2.split("@");
-        String[] str11 = str1[4].split("=");
+        String[] str11 = str1[3].split("=");
         if (str11[1].equals("已预订")) {
             flag = true;
         }

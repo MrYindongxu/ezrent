@@ -3,7 +3,7 @@ package version2.BIMServer;
 import version2.ServerChat;
 
 public class ServerMain {
-    //服务器main方法
+    //鏈嶅姟鍣╩ain鏂规硶
     public static void main(String[] args) {
         new ServerLogin().stratUp();
     }
