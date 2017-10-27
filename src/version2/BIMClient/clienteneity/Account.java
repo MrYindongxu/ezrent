@@ -6,7 +6,7 @@ import java.io.Serializable;
 public class Account implements Serializable {
     private String userName;
     private String password;
-    private String idnum;//Éí·İÖ¤ºÅÂë
+    private String idnum;//èº«ä»½è¯å·ç 
 
     public Account() {
     }

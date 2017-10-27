@@ -14,6 +14,7 @@ public class RentDetail {
     String address;//求租地址
     HouseTypePics pics;
     public void detail(int num){
+
         String str = ServerUtil.getSpecificRowString(num);
         String[] str2 = str.split("@");
         String[] str21 = str2[0].split("=");
