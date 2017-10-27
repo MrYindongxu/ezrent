@@ -10,8 +10,10 @@
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/ForRentMessage.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/idTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clientutil/ClientUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clientutil/Request.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/splitShowMessage.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMServer/ServerLogin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMServer/ServerMain.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMServer/info/rentMsg.txt" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/FileOperate.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/ServerUtil.java" charset="UTF-8" />
