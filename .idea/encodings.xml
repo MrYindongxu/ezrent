@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$USER_HOME$/Desktop/FileOperate(1).java" charset="GBK" />
+    <file url="file://$USER_HOME$/Desktop/NewGame(1).java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/ClientLogin.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/ClientMain.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/Login.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/NewGame.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/NewRegister.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/Swing.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/Account.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CityMap.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/ForRentMessage.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/idTest.java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/version2/BIMClient/clientutil/ClientUtil.java" charset="UTF-8" />

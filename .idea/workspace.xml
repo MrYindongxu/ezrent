@@ -1,0 +1,1260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/src/version2/BIMServer/ServerLogin.java" description="int num1 = request.orderChoice;" line="121" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0e8a9cb2-a1f2-4adc-b53a-e919d8930451" name="Default" comment="将Swing类中关于check的部分移到NewGame类中，并在其中增添类一些组件">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/ClientLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/ClientMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/Login$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/Login$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/Login.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame$MenuItemClick.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewGame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewRegister$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewRegister$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/NewRegister.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/Swing$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/Swing$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/Swing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clienteneity/Account.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clienteneity/CityMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clienteneity/CodeInMD5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clienteneity/ForRentMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clienteneity/idTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clientutil/ClientUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/clientutil/Request.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMClient/splitShowMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/ServerLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/ServerLoginThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/ServerMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/denglu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/mainPicture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/登录.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/servereneity/Account.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/servereneity/Feedback.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/serverutil/FileOperate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/serverutil/ServerUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/ClientChat$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/ClientChat$ClientThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/ClientChat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/ServerChat$ServerThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/ServerChat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/ClientLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/ClientMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/Login$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/Login$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/Login.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame$MenuItemClick.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewGame.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewRegister$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewRegister$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/NewRegister.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/Swing$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/Swing$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/Swing.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clienteneity/Account.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clienteneity/CityMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clienteneity/CodeInMD5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clienteneity/ForRentMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clienteneity/idTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clientutil/ClientUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/clientutil/Request.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMClient/splitShowMessage.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/ServerLogin.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/ServerLoginThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/ServerMain.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/denglu.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/main.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/mainPicture.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/sanshiyiting.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/sanshiyiting.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/登录.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/servereneity/Account.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/servereneity/Feedback.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/serverutil/FileOperate.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/serverutil/ServerUtil.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/ClientChat$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/ClientChat$ClientThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/ClientChat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/ServerChat$ServerThread.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/ServerChat.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/accountMsg.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/rentMsg.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/accountMsg.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/ezrent/version2/BIMServer/info/rentMsg.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CityMap.java" afterPath="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CityMap.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/version2/BIMServer/info/rentMsg.txt" afterPath="$PROJECT_DIR$/src/version2/BIMServer/info/rentMsg.txt" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="NewGame.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/NewGame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1509075119225" expanded="true" signature="2908:13198" ph="{...}" />
+                <marker date="1509075119225" expanded="false" signature="3012:3031" ph="}" />
+                <marker date="1509075119225" expanded="false" signature="4792:4901" ph="(e) → {" />
+                <marker date="1509075119225" expanded="false" signature="5472:5491" ph="}" />
+                <marker date="1509075119225" expanded="false" signature="5527:5636" ph="(e) → {" />
+                <marker date="1509075119225" expanded="false" signature="6088:6107" ph="}" />
+                <marker date="1509075119225" expanded="false" signature="7789:7898" ph="(e) → {" />
+                <marker date="1509075119225" expanded="false" signature="8473:8492" ph="}" />
+                <marker date="1509075119225" expanded="false" signature="8528:8637" ph="(e) → {" />
+                <marker date="1509075119225" expanded="false" signature="9089:9108" ph="}" />
+                <marker date="1509075119225" expanded="false" signature="10762:10871" ph="(e) → {" />
+                <marker date="1509075119225" expanded="false" signature="11442:11461" ph="}" />
+                <marker date="1509075119225" expanded="false" signature="11497:11606" ph="(e) → {" />
+                <marker date="1509075119225" expanded="false" signature="12058:12077" ph="}" />
+                <marker date="1509075119225" expanded="true" signature="13254:15966" ph="{...}" />
+                <marker date="1509075119225" expanded="true" signature="16040:18040" ph="{...}" />
+                <marker date="1509075119225" expanded="true" signature="16111:18034" ph="{...}" />
+                <marker date="1509075119225" expanded="false" signature="18082:18092" ph=" { " />
+                <marker date="1509075119225" expanded="false" signature="18106:18112" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Swing.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/Swing.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+              <folding>
+                <marker date="1509075119225" expanded="true" signature="5021:5065" ph="/**...*/" />
+                <marker date="1509075119225" expanded="false" signature="5090:7099" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RentDetail.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/RentDetail.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Account.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/Account.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+              <folding>
+                <marker date="1509075717049" expanded="false" signature="647:658" ph=" { " />
+                <marker date="1509075717049" expanded="false" signature="683:689" ph=" }" />
+                <marker date="1509075717049" expanded="false" signature="722:733" ph=" { " />
+                <marker date="1509075717049" expanded="false" signature="754:760" ph=" }" />
+                <marker date="1509075717049" expanded="false" signature="806:817" ph=" { " />
+                <marker date="1509075717049" expanded="false" signature="842:848" ph=" }" />
+                <marker date="1509075717049" expanded="false" signature="888:899" ph=" { " />
+                <marker date="1509075717049" expanded="false" signature="918:924" ph=" }" />
+                <marker date="1509075717049" expanded="false" signature="957:968" ph=" { " />
+                <marker date="1509075717049" expanded="false" signature="984:990" ph=" }" />
+                <marker date="1509075717049" expanded="false" signature="1020:1031" ph=" { " />
+                <marker date="1509075717049" expanded="false" signature="1044:1050" ph=" }" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CityMap.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CityMap.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="3444" column="11" lean-forward="false" selection-start-line="3444" selection-start-column="11" selection-end-line="3444" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="encodings.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ClientThread</find>
+      <find>stratUp</find>
+      <find>j1</find>
+      <find>jTextArea</find>
+      <find>ServerC</find>
+      <find>j123</find>
+      <find>chat</find>
+      <find>621</find>
+      <find>622424</find>
+      <find>userName</find>
+      <find>account</find>
+      <find>request</find>
+      <find>saveStringToTxt</find>
+      <find>initPanel</find>
+      <find>seach</find>
+      <find>jDetail</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/version2/swing/FileOperate.java" />
+        <option value="$PROJECT_DIR$/src/version2/swing/NewGame.java" />
+        <option value="$PROJECT_DIR$/src/version2/swing/Test.java" />
+        <option value="$PROJECT_DIR$/src/version2/swing/NewRegister.java" />
+        <option value="$PROJECT_DIR$/src/version2/swing/Login.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/Menu.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CodeInMD5.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/info/accountMsg.txt" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/ForRentMessage1.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/ClientMain.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/idTest.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/Ording.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/SendMessage.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/ForRentMessage.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/ShowMessage.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clientutil/ClientUtil.java" />
+        <option value="$PROJECT_DIR$/src/version2/ClientChat.java" />
+        <option value="$PROJECT_DIR$/src/version2/ServerChat.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/ServerMain.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/serverutil/ServerUtil.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/info/rentMsg.txt" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/splitShowMessage.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/ClientLogin.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/NewRegister.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/Login.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clientutil/Request.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/ServerLogin.java" />
+        <option value="$USER_HOME$/Desktop/NewGame(1).java" />
+        <option value="$USER_HOME$/Desktop/FileOperate(1).java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/serverutil/FileOperate.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/NewGame.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/Swing.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMServer/serverutil/RentDetail.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/Account.java" />
+        <option value="$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CityMap.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="200" />
+    <option name="y" value="12" />
+    <option name="width" value="1048" />
+    <option name="height" value="658" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ezrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezrent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezrent" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="BIMServer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ezrent" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ezrent" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="serverutil" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ezrent1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Java-Work\ezrent\src\version2\BIMServer\serverutil" />
+      <recent name="E:\Java-Work\ezrent\src\version2\BIMServer\info" />
+      <recent name="E:\Java-Work\BIMRent10\src\version2\BIMServer\serverutil" />
+      <recent name="E:\Java-Work\BIMRent10\src\version2\BIMServer\info" />
+      <recent name="E:\Java-Work\BIMRent10\src\version2\BIMClient" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="version2.BIMClient" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Java-Work\ezrent\src\version2\BIMServer\info" />
+      <recent name="E:\Java-Work\BIMRent10\src\version2\BIMServer\info" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NewGame">
+    <configuration name="ClientMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="version2.BIMClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="version2.BIMClient.ClientMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ezrent" />
+      <envs />
+    </configuration>
+    <configuration name="NewGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="version2.BIMClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="version2.BIMClient.NewGame" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ezrent" />
+      <envs />
+    </configuration>
+    <configuration name="NewRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="version2.BIMClient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="version2.BIMClient.NewRegister" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ezrent" />
+      <envs />
+    </configuration>
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="version2.BIMServer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="version2.BIMServer.ServerMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ezrent" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="BIMRent10" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="idTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="version2.BIMClient.clienteneity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="version2.BIMClient.clienteneity.idTest" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="ezrent" />
+      <envs />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.NewRegister" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ClientMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ServerMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.NewGame" />
+      <item index="4" class="java.lang.String" itemvalue="Application.idTest" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.NewGame" />
+        <item index="1" class="java.lang.String" itemvalue="Application.ServerMain" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ClientMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.NewRegister" />
+        <item index="4" class="java.lang.String" itemvalue="Application.idTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0e8a9cb2-a1f2-4adc-b53a-e919d8930451" name="Default" comment="" />
+      <created>1508478439870</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1508478439870</updated>
+      <workItem from="1508478443193" duration="3858000" />
+      <workItem from="1508548411238" duration="1029000" />
+      <workItem from="1508549971887" duration="11326000" />
+      <workItem from="1508576103788" duration="17782000" />
+      <workItem from="1508595472820" duration="5177000" />
+      <workItem from="1508601339700" duration="795000" />
+      <workItem from="1508639769610" duration="3176000" />
+      <workItem from="1508643020326" duration="4073000" />
+      <workItem from="1508647399482" duration="14844000" />
+      <workItem from="1508671391917" duration="16514000" />
+      <workItem from="1508718892510" duration="4832000" />
+      <workItem from="1508724519768" duration="14517000" />
+      <workItem from="1508747891462" duration="478000" />
+      <workItem from="1508809254132" duration="13532000" />
+      <workItem from="1508834779548" duration="14035000" />
+      <workItem from="1508891398328" duration="14445000" />
+      <workItem from="1508911764356" duration="93000" />
+      <workItem from="1508911940252" duration="913000" />
+      <workItem from="1508912945043" duration="2015000" />
+      <workItem from="1508915037710" duration="2223000" />
+      <workItem from="1508917643273" duration="1178000" />
+      <workItem from="1508919122791" duration="2473000" />
+      <workItem from="1508921739354" duration="1450000" />
+      <workItem from="1508936001590" duration="11656000" />
+      <workItem from="1508999595930" duration="13273000" />
+    </task>
+    <task id="LOCAL-00001" summary="初始版本">
+      <created>1508919497085</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1508919497085</updated>
+    </task>
+    <task id="LOCAL-00002" summary="将Swing类中关于check的部分移到NewGame类中，并在其中增添类一些组件">
+      <created>1509074777584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509074777584</updated>
+    </task>
+    <task id="LOCAL-00003" summary="将Swing类中关于check的部分移到NewGame类中，并在其中增添类一些组件">
+      <created>1509075094250</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1509075094250</updated>
+    </task>
+    <task id="LOCAL-00004" summary="将Swing类中关于check的部分移到NewGame类中，并在其中增添类一些组件">
+      <created>1509075872534</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1509075872534</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="175687000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="22" y="290" width="1322" height="148" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21669106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="top" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32767403" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32597622" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3293718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="22" y="290" width="1322" height="148" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21669106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="初始版本" />
+    <MESSAGE value="将Swing类中关于check的部分移到NewGame类中，并在其中增添类一些组件" />
+    <option name="LAST_COMMIT_MESSAGE" value="将Swing类中关于check的部分移到NewGame类中，并在其中增添类一些组件" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/version2/BIMClient/Swing.java</url>
+          <line>133</line>
+          <properties class="version2.BIMClient.Swing" method="chat">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/FileOperate.java</url>
+          <line>171</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/FileOperate.java</url>
+          <line>198</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/out/production/BIMRent10/version2/BIMServer/info/accountMsg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/swing/FileOperate.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/swing/SingleMode.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/swing/NewGame.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/swing/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/swing/NewRegister.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/swing/Login.java" />
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/java/awt/CardLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="58" column="13" lean-forward="false" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/javax/swing/JTextArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9700">
+          <caret line="495" column="16" lean-forward="false" selection-start-line="495" selection-start-column="16" selection-end-line="495" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/jre/lib/rt.jar!/sun/nio/cs/StreamDecoder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="136" column="0" lean-forward="false" selection-start-line="136" selection-start-column="0" selection-end-line="136" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/java/io/BufferedReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="380" column="18" lean-forward="false" selection-start-line="380" selection-start-column="18" selection-end-line="380" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/javax/swing/text/PlainView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="637" column="0" lean-forward="false" selection-start-line="637" selection-start-column="0" selection-end-line="637" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/info/登录.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CodeInMD5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/ServerChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1250">
+          <caret line="60" column="23" lean-forward="false" selection-start-line="60" selection-start-column="23" selection-end-line="60" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/info/accountMsg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/idTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="251">
+          <caret line="148" column="66" lean-forward="false" selection-start-line="148" selection-start-column="66" selection-end-line="148" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/Ording.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/SendMessage.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/Menu.java" />
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/ForRentMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="487">
+          <caret line="65" column="1" lean-forward="true" selection-start-line="65" selection-start-column="1" selection-end-line="65" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/servereneity/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/java/io/PrintWriter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="736" column="16" lean-forward="false" selection-start-line="736" selection-start-column="16" selection-end-line="736" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/ServerMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#58524#58525#0" expanded="false" />
+            <element signature="e#58561#58562#0" expanded="false" />
+            <element signature="e#93265#93266#0" expanded="false" />
+            <element signature="e#93303#93304#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/ClientMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/info/rentMsg.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/ClientChat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/javax/swing/JComponent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2880">
+          <caret line="183" column="27" lean-forward="false" selection-start-line="183" selection-start-column="27" selection-end-line="183" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/java/awt/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2496">
+          <caret line="187" column="29" lean-forward="false" selection-start-line="187" selection-start-column="29" selection-end-line="187" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/javax/swing/JScrollPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="170" column="23" lean-forward="false" selection-start-line="170" selection-start-column="13" selection-end-line="170" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/JAVA/jdk1.7.0_80/src.zip!/javax/swing/ScrollPaneConstants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="89" column="32" lean-forward="false" selection-start-line="89" selection-start-column="32" selection-end-line="89" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/NewRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1220">
+          <caret line="175" column="25" lean-forward="false" selection-start-line="175" selection-start-column="25" selection-end-line="175" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="64" column="21" lean-forward="true" selection-start-line="64" selection-start-column="21" selection-end-line="64" selection-end-column="22" />
+          <folding>
+            <marker date="1508914852367" expanded="true" signature="4674:4851" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clientutil/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#682#683#0" expanded="true" />
+            <element signature="e#722#723#0" expanded="true" />
+            <element signature="e#843#844#0" expanded="true" />
+            <element signature="e#877#878#0" expanded="true" />
+            <marker date="1509004437729" expanded="false" signature="475:486" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="503:509" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="535:546" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="563:569" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="602:613" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="629:635" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="770:781" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="803:809" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="927:938" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="969:975" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="1020:1031" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="1054:1060" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="1093:1104" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="1124:1130" ph=" }" />
+            <marker date="1509004437729" expanded="false" signature="1196:1206" ph=" { " />
+            <marker date="1509004437729" expanded="false" signature="1243:1249" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/NewGame(1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="76" column="25" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="76" selection-end-column="25" />
+          <folding>
+            <element signature="e#2319#3165#0" expanded="false" />
+            <element signature="e#3164#3165#0" expanded="false" />
+            <element signature="e#4926#5625#0" expanded="false" />
+            <element signature="e#5624#5625#0" expanded="false" />
+            <element signature="e#5661#6241#0" expanded="false" />
+            <element signature="e#6240#6241#0" expanded="false" />
+            <element signature="e#7923#8626#0" expanded="false" />
+            <element signature="e#8625#8626#0" expanded="false" />
+            <element signature="e#8662#9242#0" expanded="false" />
+            <element signature="e#9241#9242#0" expanded="false" />
+            <element signature="e#10896#11595#0" expanded="false" />
+            <element signature="e#11594#11595#0" expanded="false" />
+            <element signature="e#11631#12211#0" expanded="false" />
+            <element signature="e#12210#12211#0" expanded="false" />
+            <marker date="1509005325268" expanded="false" signature="18216:18226" ph=" { " />
+            <marker date="1509005325268" expanded="false" signature="18240:18246" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/splitShowMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/FileOperate(1).java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="245" column="0" lean-forward="true" selection-start-line="245" selection-start-column="0" selection-end-line="245" selection-end-column="0" />
+          <folding>
+            <element signature="e#4943#4951#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clientutil/ClientUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/ClientLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-437">
+          <caret line="114" column="33" lean-forward="true" selection-start-line="114" selection-start-column="33" selection-end-line="114" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/ServerUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="912">
+          <caret line="75" column="31" lean-forward="true" selection-start-line="75" selection-start-column="31" selection-end-line="75" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/FileOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-164">
+          <caret line="156" column="25" lean-forward="false" selection-start-line="156" selection-start-column="25" selection-end-line="156" selection-end-column="25" />
+          <folding>
+            <element signature="e#4943#4951#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/ServerLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="106" column="60" lean-forward="true" selection-start-line="106" selection-start-column="60" selection-end-line="106" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/NewGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1509075119225" expanded="true" signature="2908:13198" ph="{...}" />
+            <marker date="1509075119225" expanded="false" signature="3012:3031" ph="}" />
+            <marker date="1509075119225" expanded="false" signature="4792:4901" ph="(e) → {" />
+            <marker date="1509075119225" expanded="false" signature="5472:5491" ph="}" />
+            <marker date="1509075119225" expanded="false" signature="5527:5636" ph="(e) → {" />
+            <marker date="1509075119225" expanded="false" signature="6088:6107" ph="}" />
+            <marker date="1509075119225" expanded="false" signature="7789:7898" ph="(e) → {" />
+            <marker date="1509075119225" expanded="false" signature="8473:8492" ph="}" />
+            <marker date="1509075119225" expanded="false" signature="8528:8637" ph="(e) → {" />
+            <marker date="1509075119225" expanded="false" signature="9089:9108" ph="}" />
+            <marker date="1509075119225" expanded="false" signature="10762:10871" ph="(e) → {" />
+            <marker date="1509075119225" expanded="false" signature="11442:11461" ph="}" />
+            <marker date="1509075119225" expanded="false" signature="11497:11606" ph="(e) → {" />
+            <marker date="1509075119225" expanded="false" signature="12058:12077" ph="}" />
+            <marker date="1509075119225" expanded="true" signature="13254:15966" ph="{...}" />
+            <marker date="1509075119225" expanded="true" signature="16040:18040" ph="{...}" />
+            <marker date="1509075119225" expanded="true" signature="16111:18034" ph="{...}" />
+            <marker date="1509075119225" expanded="false" signature="18082:18092" ph=" { " />
+            <marker date="1509075119225" expanded="false" signature="18106:18112" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/Swing.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="58" column="30" lean-forward="false" selection-start-line="58" selection-start-column="30" selection-end-line="58" selection-end-column="30" />
+          <folding>
+            <marker date="1509075119225" expanded="true" signature="5021:5065" ph="/**...*/" />
+            <marker date="1509075119225" expanded="false" signature="5090:7099" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMServer/serverutil/RentDetail.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="32" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="32" />
+          <folding>
+            <marker date="1509075717049" expanded="false" signature="647:658" ph=" { " />
+            <marker date="1509075717049" expanded="false" signature="683:689" ph=" }" />
+            <marker date="1509075717049" expanded="false" signature="722:733" ph=" { " />
+            <marker date="1509075717049" expanded="false" signature="754:760" ph=" }" />
+            <marker date="1509075717049" expanded="false" signature="806:817" ph=" { " />
+            <marker date="1509075717049" expanded="false" signature="842:848" ph=" }" />
+            <marker date="1509075717049" expanded="false" signature="888:899" ph=" { " />
+            <marker date="1509075717049" expanded="false" signature="918:924" ph=" }" />
+            <marker date="1509075717049" expanded="false" signature="957:968" ph=" { " />
+            <marker date="1509075717049" expanded="false" signature="984:990" ph=" }" />
+            <marker date="1509075717049" expanded="false" signature="1020:1031" ph=" { " />
+            <marker date="1509075717049" expanded="false" signature="1044:1050" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/version2/BIMClient/clienteneity/CityMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="3444" column="11" lean-forward="false" selection-start-line="3444" selection-start-column="11" selection-end-line="3444" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
